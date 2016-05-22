@@ -42,7 +42,10 @@
 ![13230726_10205080891737077_1237466966_o](https://cloud.githubusercontent.com/assets/17496439/15456836/d35263f8-2084-11e6-946b-af96e57c0d06.png)
 ![13242253_10205080892337092_1726749389_o](https://cloud.githubusercontent.com/assets/17496439/15456837/d36854e2-2084-11e6-8183-d7bac554ce5d.png)
 
-##Συμπεράσματα : Η εφαρμογή Running App είναι μια χρήσιμη εφαρμογή για τους δρομείς, πολύ απλή και με εύχρηστα menu.
+##Συμπεράσματα : 
+
+Η εφαρμογή Running App είναι μια χρήσιμη εφαρμογή για τους δρομείς, πολύ απλή και με εύχρηστα menu.
 
 ##Το αρχείο .aia της εφαρμογής Running App:
+
 https://www.dropbox.com/s/b8n0vnxwy1b4yap/RunningApp.aia?dl=0
