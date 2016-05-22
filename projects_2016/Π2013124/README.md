@@ -35,4 +35,11 @@
 
 ##Screenshots από την εφαρμογή κατα την χρήση της σε Emulator αλλα και σε κινητό: 
 
+![2016-05-17 22_49_42-greenshot](https://cloud.githubusercontent.com/assets/17496439/15456830/c16bb072-2084-11e6-90d0-23eeca99b301.jpg)
+![13234675_10205080892297091_952451109_o](https://cloud.githubusercontent.com/assets/17496439/15456831/c16edbb2-2084-11e6-8a76-fecc60d0f888.png)
+![2016-05-17 22_48_41-mit app inventor 2](https://cloud.githubusercontent.com/assets/17496439/15456835/d32de6ae-2084-11e6-9ebe-754816e887a3.jpg)
+![2016-05-17 22_50_22-greenshot](https://cloud.githubusercontent.com/assets/17496439/15456838/d3d4a2aa-2084-11e6-83c4-cd1aaa0ceadb.jpg)
+![13230726_10205080891737077_1237466966_o](https://cloud.githubusercontent.com/assets/17496439/15456836/d35263f8-2084-11e6-946b-af96e57c0d06.png)
+![13242253_10205080892337092_1726749389_o](https://cloud.githubusercontent.com/assets/17496439/15456837/d36854e2-2084-11e6-8183-d7bac554ce5d.png)
+
 ##Το αρχείο .apk της εφαρμογής Running App:
