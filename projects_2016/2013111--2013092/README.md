@@ -1,3 +1,5 @@
+[I'm an inline-style link](https://www.google.com)
+
 #Τίτλος Εργασίας
 Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού για MIT App Inventor
 
@@ -41,9 +43,7 @@
 
 -Μεταβάλλουμε τις ιδιότητες			   Screen Orientation: Portrait
 
-
 　                                　Scrollable: No
-　                                　
 　                                　
 　                                　Title: Playing with the car
 　　
