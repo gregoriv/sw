@@ -1,5 +1,3 @@
-[I'm an inline-style link](https://www.google.com)
-
 #Τίτλος Εργασίας
 Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού για MIT App Inventor
 
