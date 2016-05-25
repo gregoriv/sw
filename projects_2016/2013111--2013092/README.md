@@ -179,7 +179,11 @@ Aρχικά κατεβάζουμε τις εικόνες στον υπολογι
 
 -Μεταβάλλουμε τις ιδιότητες			:arrow_right:   Screen Orientation: Portrait
   
+  
+  
 　                                            　Scrollable: No
+　                                　
+　                                　
 　                                　
                                             　　Title: Playing with the car
 　　
