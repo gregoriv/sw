@@ -41,7 +41,9 @@
 
 -Μεταβάλλουμε τις ιδιότητες			   Screen Orientation: Portrait
 
+
 　                                　Scrollable: No
+　                                　
 　                                　
 　                                　Title: Playing with the car
 　　
