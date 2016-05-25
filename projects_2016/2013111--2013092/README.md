@@ -116,7 +116,7 @@ Aρχικά κατεβάζουμε τις εικόνες στον υπολογι
 ####Βίντεο παιχνιδιού: 
 https://www.youtube.com/watch?v=s3Ye4dGl2jo
 
-[![IMAGE ALT TEXT HERE](file:///C:/Users/%CE%A0%CE%B1%CF%81%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE/Desktop/%CE%A3%CF%87%CE%BF%CE%BB%CE%AE/%CE%A3%CE%A4'%20%CE%95%CE%9E%CE%91%CE%9C%CE%97%CE%9D%CE%9F/%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%20%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CE%BF%CF%8D/ergasia%20app%20inventor/CarGame/kar.jpg)](https://www.youtube.com/watch?v=s3Ye4dGl2jo)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/s3Ye4dGl2jo/1.jpg?time=1464171926759)](https://www.youtube.com/watch?v=s3Ye4dGl2jo)
 
 
 
