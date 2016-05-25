@@ -114,7 +114,6 @@ Aρχικά κατεβάζουμε τις εικόνες στον υπολογι
 Η ιδιότητα other συμβολίζει το αντικείμενο με το οποίο έγινε η σύγκρουση. Στο σημείο αυτό θα πρέπει να συγκρίνουμε την τιμή του other με κάθε ένα από τα αντικείμενα της εφαρμογής, όπως φαίνεται παρακάτω.
 
 ####Βίντεο παιχνιδιού: 
-https://www.youtube.com/watch?v=s3Ye4dGl2jo
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/s3Ye4dGl2jo/1.jpg?time=1464171926759)](https://www.youtube.com/watch?v=s3Ye4dGl2jo)
 
@@ -329,8 +328,8 @@ B) Μετά από 3 δευτερόλεπτα να εμφανίζεται η ε�
 
 
 ####Βίντεο παιχνιδιού: 
-https://www.youtube.com/watch?v=s3Ye4dGl2jo
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/s3Ye4dGl2jo/1.jpg?time=1464171926759)](https://www.youtube.com/watch?v=s3Ye4dGl2jo)
 
-https://www.youtube.com/watch?v=UufcOTKtWUE
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/UufcOTKtWUE/2.jpg?time=1464172103025)](https://www.youtube.com/watch?v=UufcOTKtWUE)
 
 Δυστυχώς ο ήχος με την εικόνα δεν συγχρονίζονται αλλά δεν φταίει το παιχνίδι γι'αυτό. Στο παιχνίδι δουλεύουν μια χαρά κ είναι συγχρονισμένα. Το πρόβλημα είναι στο πρόγραμμα που χρησιμοποιήσαμε για να καταγράψουμε την οθόνη του κινητού .
