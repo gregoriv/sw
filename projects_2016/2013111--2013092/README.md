@@ -40,21 +40,10 @@
 -Επιλέγουμε το αντικείμενο  	  :arrow_right:    Screen 1
 
 -Μεταβάλλουμε τις ιδιότητες		:arrow_right:	     Screen Orientation: Portrait
-  
-  
-  
-  
-  
-  
-　                                             　Scrollable: No
+
+　                                             　-Scrollable: No
 　                                　
-　                                　
-　                                　
-　                                　
-　                                　
-　                                　
-　                                　
-　                                             　Title: Playing with the car
+　                                             　-Title: Playing with the car
 　　
 　　
 ####Βήμα 2: Προσθήκη των απαραίτητων αρχείων πολυμέσων
