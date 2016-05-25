@@ -41,7 +41,18 @@
 
 -Μεταβάλλουμε τις ιδιότητες		:arrow_right:	     Screen Orientation: Portrait
   
+  
+  
+  
+  
+  
 　                                             　Scrollable: No
+　                                　
+　                                　
+　                                　
+　                                　
+　                                　
+　                                　
 　                                　
 　                                             　Title: Playing with the car
 　　
