@@ -41,6 +41,7 @@
 
 -Μεταβάλλουμε τις ιδιότητες			   Screen Orientation: Portrait
 
+
 　                                　Scrollable: No
 　                                　
                                
