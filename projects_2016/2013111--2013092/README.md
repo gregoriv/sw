@@ -179,14 +179,9 @@ Aρχικά κατεβάζουμε τις εικόνες στον υπολογι
 
 -Μεταβάλλουμε τις ιδιότητες			:arrow_right:   Screen Orientation: Portrait
   
-  
-  
-　                                            　Scrollable: No
+　                           :arrow_right:    　Scrollable: No
 　                                　
-　                                　
-　                                　
-                                            　　Title: Playing with the car
-　　
+　                           :arrow_right:    　Title: Playing with the car
 　　
 ####Βήμα 2: Προσθήκη των απαραίτητων αρχείων πολυμέσων
 Προσθέτουμε στο κεφάλαιό μας τα αρχεία εικόνας και τους ήχους που θα χρησιμοποιεί η εφαρμογή μας. (Τα οποία τα βρήκαμε στο διαδίκτυο.)
