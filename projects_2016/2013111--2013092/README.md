@@ -41,11 +41,9 @@
 
 -Μεταβάλλουμε τις ιδιότητες			   Screen Orientation: Portrait
 
-
 　                                　Scrollable: No
 　                                　
-                               
-                                 　　Title: Playing with the car
+　                                　Title: Playing with the car
 　　
 　　
 ####Βήμα 2: Προσθήκη των απαραίτητων αρχείων πολυμέσων
